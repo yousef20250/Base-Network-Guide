@@ -40,5 +40,12 @@ Examples of activities people usually do:
 There is no guarantee of an airdrop, and all information is speculative.
 
 ## Disclaimer
+## Who Is This Repository For?
+
+This repository is intended for beginners who want to learn about the Base network in a simple way.
+
+It provides easy-to-read information about the ecosystem, common use cases, security tips, and general educational content.
+
+Whether you are new to blockchain or exploring Layer 2 networks, this repository can help you understand the basics of Base.
 
 This repository is for educational purposes only.
