@@ -20,6 +20,19 @@ Social protocols and community-driven platforms are expanding on Base.
 
 Game developers are exploring Base to create blockchain-based gaming experiences.
 
+## Project Categories
+
+The Base ecosystem includes projects from many different categories.
+
+* Decentralized Finance (DeFi)
+* NFT Marketplaces
+* Social Applications
+* Blockchain Games
+* Developer Tools
+* Infrastructure Services
+
+Each category helps expand the ecosystem and provides different opportunities for users and developers.
+
 ## Conclusion
 
 The number of projects on Base continues to increase, making the network an important part of the Ethereum ecosystem.
