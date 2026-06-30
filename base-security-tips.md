@@ -20,6 +20,16 @@ Be cautious of messages, emails, or social media posts promising free rewards or
 
 Update your wallet and device software regularly to benefit from the latest security improvements.
 
+## Safe Wallet Connections
+
+Before connecting your wallet to any application, make sure the website is legitimate.
+
+Avoid clicking unknown links shared through messages or social media.
+
+Review the permissions requested by decentralized applications before approving any transaction.
+
+Disconnect your wallet from services you no longer use to reduce unnecessary exposure.
+
 ## Conclusion
 
 Good security practices help users safely explore the Base ecosystem and reduce potential risks.
