@@ -8,6 +8,12 @@ Base helps users save money by offering lower transaction costs compared to many
 
 The network is designed to process transactions quickly, providing a better experience for users.
 
+## Easy Access
+
+Base is designed to make blockchain technology more accessible for both new and experienced users.
+
+Its compatibility with Ethereum tools allows users to explore decentralized applications without learning an entirely new ecosystem.
+
 ## Ethereum Security
 
 Base is built on Ethereum and benefits from its strong security and infrastructure.
