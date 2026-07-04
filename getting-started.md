@@ -15,6 +15,11 @@ Transfer assets to your wallet and bridge funds to Base if needed.
 ## Step 4: Explore Applications
 
 Try different applications available on the Base ecosystem, such as DeFi, NFT, and social platforms.
+### Learn Before You Invest
+
+Take time to understand how each application works before using it.
+
+Reading official documentation and learning the basics can help users make more informed decisions and avoid common mistakes.
 
 ## Step 5: Stay Safe
 
