@@ -20,6 +20,12 @@ Game developers can build blockchain-based games that benefit from lower costs a
 
 Many communities are creating new applications and services on Base, making the ecosystem more active and diverse.
 
+## Education
+
+Base can also be used for educational purposes.
+
+Developers, students, and blockchain enthusiasts can explore decentralized applications, learn about Layer 2 technology, and gain practical experience by interacting with the ecosystem.
+
 ## Conclusion
 
 Base supports a wide range of blockchain applications and continues to grow as more developers build on the network.
