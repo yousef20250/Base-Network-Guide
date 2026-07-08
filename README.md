@@ -13,6 +13,11 @@ Base is a Layer 2 blockchain built by Coinbase on Ethereum. It aims to provide f
 * Built on Ethereum
 * Supported by Coinbase
 * Growing ecosystem
+## Who Can Use Base?
+
+Base is designed for a wide range of users, including developers, creators, businesses, and blockchain enthusiasts.
+
+Whether you want to build decentralized applications or simply explore the ecosystem, Base offers tools and services for different experience levels.
 
 ## Ecosystem
 
