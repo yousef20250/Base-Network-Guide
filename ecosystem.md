@@ -29,6 +29,11 @@ Blockchain games and gaming infrastructure projects are becoming part of the Bas
 A strong ecosystem attracts more developers and users, helping the network grow over time.
 
 As more projects launch on Base, the ecosystem continues to expand and provide new opportunities for innovation.
+## Collaboration
+
+The growth of the Base ecosystem depends on collaboration between developers, communities, and organizations.
+
+By sharing knowledge and building open-source projects, contributors help improve the ecosystem and create better experiences for users.
 
 ## Conclusion
 
