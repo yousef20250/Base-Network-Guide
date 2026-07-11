@@ -16,6 +16,12 @@ Users often:
 * Explore new projects
 * Participate in community events
 
+## Community Participation
+
+Many users choose to participate in community discussions, provide feedback, and explore new applications on Base.
+
+These activities help users better understand the ecosystem, even though they do not guarantee any future rewards or incentives.
+
 ## Important Note
 
 There is no guarantee that these activities will lead to an airdrop.
