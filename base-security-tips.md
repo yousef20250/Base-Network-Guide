@@ -16,6 +16,12 @@ Interact with reputable projects and research them before using their services.
 
 Be cautious of messages, emails, or social media posts promising free rewards or guaranteed profits.
 
+## Review Transactions Carefully
+
+Before confirming any transaction, take a moment to review the destination address, network, and transaction details.
+
+A quick review can help prevent mistakes and improve the overall security of your digital assets.
+
 ## Keep Software Updated
 
 Update your wallet and device software regularly to benefit from the latest security improvements.
