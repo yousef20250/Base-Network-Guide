@@ -21,6 +21,11 @@ Base is built on Ethereum and benefits from its strong security and infrastructu
 ## Growing Community
 
 Developers and users continue to join the Base ecosystem, contributing to its growth.
+## Scalability
+
+As the ecosystem expands, Base is designed to support more users and applications while maintaining an efficient experience.
+
+Scalability is an important factor for blockchain networks that aim to serve a growing community.
 
 ## Developer-Friendly Environment
 
