@@ -11,6 +11,11 @@ The network continues to attract projects in decentralized finance, gaming, soci
 ## Developer Innovation
 
 Base provides an environment where developers can build scalable blockchain applications with lower costs.
+## Long-Term Vision
+
+The long-term vision of Base is centered on improving accessibility, supporting innovation, and making blockchain technology easier to use for a wider audience.
+
+Continued development and community participation will play an important role in achieving these goals.
 
 ## Ecosystem Expansion
 
