@@ -43,6 +43,11 @@ Examples of activities people usually do:
 * Staying active over time
 
 There is no guarantee of an airdrop, and all information is speculative.
+## Repository Goals
+
+This repository is designed to provide simple and beginner-friendly information about the Base network.
+
+The goal is to organize educational content in one place, making it easier for readers to understand the ecosystem, its features, and common use cases.
 
 ## Disclaimer
 ## Who Is This Repository For?
