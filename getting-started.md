@@ -24,6 +24,11 @@ Reading official documentation and learning the basics can help users make more 
 ## Step 5: Stay Safe
 
 Always verify websites, protect your private keys, and be cautious of scams.
+## Explore Gradually
+
+There is no need to try every application at once.
+
+Starting with a few trusted projects and learning step by step can help users better understand the Base ecosystem and build confidence over time.
 
 ## Conclusion
 
