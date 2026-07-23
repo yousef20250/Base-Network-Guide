@@ -26,6 +26,11 @@ Developers and users continue to join the Base ecosystem, contributing to its gr
 As the ecosystem expands, Base is designed to support more users and applications while maintaining an efficient experience.
 
 Scalability is an important factor for blockchain networks that aim to serve a growing community.
+## User Experience
+
+A smooth user experience is important for the adoption of blockchain technology.
+
+By reducing transaction costs and improving speed, Base helps make decentralized applications easier and more enjoyable to use.
 
 ## Developer-Friendly Environment
 
