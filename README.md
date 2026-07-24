@@ -48,6 +48,11 @@ There is no guarantee of an airdrop, and all information is speculative.
 This repository is designed to provide simple and beginner-friendly information about the Base network.
 
 The goal is to organize educational content in one place, making it easier for readers to understand the ecosystem, its features, and common use cases.
+## Key Features
+
+Base provides a modern blockchain environment with fast transactions, lower fees, and compatibility with Ethereum.
+
+Its growing ecosystem supports developers, users, and businesses looking to explore decentralized applications and blockchain innovation.
 
 ## Disclaimer
 ## Who Is This Repository For?
