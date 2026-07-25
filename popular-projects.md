@@ -38,6 +38,11 @@ Each category helps expand the ecosystem and provides different opportunities fo
 A diverse ecosystem gives users more choices and encourages innovation across different sectors.
 
 As new projects continue to launch, Base can support a broader range of applications for individuals, developers, and businesses.
+## Community Contributions
+
+Many projects on Base benefit from open-source contributions and active community support.
+
+Developers and users work together by sharing ideas, reporting issues, and improving applications, helping the ecosystem continue to grow.
 
 ## Conclusion
 
