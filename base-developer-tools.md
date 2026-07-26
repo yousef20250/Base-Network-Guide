@@ -30,6 +30,11 @@ The Base ecosystem offers documentation, tutorials, and community resources that
 Following coding standards, writing clear documentation, and testing applications regularly can improve project quality.
 
 These practices help developers build more reliable applications and make collaboration easier within the Base ecosystem.
+## Documentation
+
+Clear documentation helps developers understand how a project works and makes collaboration easier.
+
+Keeping documentation up to date allows new contributors to get started more quickly and reduces confusion during development.
 
 ## Conclusion
 
