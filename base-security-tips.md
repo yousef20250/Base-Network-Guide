@@ -21,6 +21,11 @@ Be cautious of messages, emails, or social media posts promising free rewards or
 Before confirming any transaction, take a moment to review the destination address, network, and transaction details.
 
 A quick review can help prevent mistakes and improve the overall security of your digital assets.
+## Keep Backups Secure
+
+Store your wallet recovery phrase in a safe offline location.
+
+Having a secure backup can help you regain access to your wallet if your device is lost or replaced. Never store your recovery phrase in a place that others can easily access.
 
 ## Keep Software Updated
 
