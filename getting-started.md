@@ -29,6 +29,11 @@ Always verify websites, protect your private keys, and be cautious of scams.
 There is no need to try every application at once.
 
 Starting with a few trusted projects and learning step by step can help users better understand the Base ecosystem and build confidence over time.
+## Practice Regularly
+
+Learning blockchain is an ongoing process.
+
+By exploring new applications, reading documentation, and practicing regularly, users can gradually become more confident when using the Base ecosystem.
 
 ## Conclusion
 
