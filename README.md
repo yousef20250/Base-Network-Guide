@@ -53,8 +53,12 @@ The goal is to organize educational content in one place, making it easier for r
 Base provides a modern blockchain environment with fast transactions, lower fees, and compatibility with Ethereum.
 
 Its growing ecosystem supports developers, users, and businesses looking to explore decentralized applications and blockchain innovation.
+## Learning Objectives
 
-## Disclaimer
+This repository aims to introduce the core concepts of the Base network in a simple and organized way.
+
+Readers can explore the ecosystem, understand its main features, and build a solid foundation for further learning about Layer 2 technology.
+
 ## Who Is This Repository For?
 
 This repository is intended for beginners who want to learn about the Base network in a simple way.
