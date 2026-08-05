@@ -31,6 +31,11 @@ Scalability is an important factor for blockchain networks that aim to serve a g
 A smooth user experience is important for the adoption of blockchain technology.
 
 By reducing transaction costs and improving speed, Base helps make decentralized applications easier and more enjoyable to use.
+## Reliable Infrastructure
+
+Base is built on a strong technical foundation that supports consistent performance for decentralized applications.
+
+A reliable infrastructure helps developers create better user experiences and gives users more confidence when exploring the ecosystem.
 
 ## Developer-Friendly Environment
 
