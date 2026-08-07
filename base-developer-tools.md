@@ -35,6 +35,11 @@ These practices help developers build more reliable applications and make collab
 Clear documentation helps developers understand how a project works and makes collaboration easier.
 
 Keeping documentation up to date allows new contributors to get started more quickly and reduces confusion during development.
+## Collaboration Tools
+
+Developers often use version control systems and collaboration platforms to manage projects efficiently.
+
+These tools help teams track changes, review code, and work together more effectively when building applications on Base.
 
 ## Conclusion
 
