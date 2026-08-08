@@ -21,6 +21,11 @@ Users often:
 Many users choose to participate in community discussions, provide feedback, and explore new applications on Base.
 
 These activities help users better understand the ecosystem, even though they do not guarantee any future rewards or incentives.
+## Avoiding Airdrop Scams
+
+Users should be careful with websites or messages claiming to offer an official Base airdrop.
+
+Always verify information through official sources and never share private keys or recovery phrases to claim a reward.
 
 ## Important Note
 
