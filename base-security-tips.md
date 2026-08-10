@@ -26,6 +26,11 @@ A quick review can help prevent mistakes and improve the overall security of you
 Store your wallet recovery phrase in a safe offline location.
 
 Having a secure backup can help you regain access to your wallet if your device is lost or replaced. Never store your recovery phrase in a place that others can easily access.
+## Check Token Approvals
+
+Before interacting with a decentralized application, review the token permissions it requests.
+
+Remove unnecessary approvals when they are no longer needed and only interact with applications you trust.
 
 ## Keep Software Updated
 
