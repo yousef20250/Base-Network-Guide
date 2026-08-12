@@ -58,6 +58,11 @@ Its growing ecosystem supports developers, users, and businesses looking to expl
 This repository aims to introduce the core concepts of the Base network in a simple and organized way.
 
 Readers can explore the ecosystem, understand its main features, and build a solid foundation for further learning about Layer 2 technology.
+## Conclusion
+
+Base is a growing Layer 2 network with a wide range of applications and an expanding community.
+
+This repository provides a simple introduction to Base and its ecosystem for anyone who wants to learn more about blockchain technology.
 
 ## Who Is This Repository For?
 
