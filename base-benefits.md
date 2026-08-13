@@ -36,6 +36,11 @@ By reducing transaction costs and improving speed, Base helps make decentralized
 Base is built on a strong technical foundation that supports consistent performance for decentralized applications.
 
 A reliable infrastructure helps developers create better user experiences and gives users more confidence when exploring the ecosystem.
+## Ethereum Compatibility
+
+Base is designed to work with Ethereum-compatible tools and applications.
+
+This compatibility makes it easier for developers familiar with Ethereum to build and deploy applications on Base.
 
 ## Developer-Friendly Environment
 
