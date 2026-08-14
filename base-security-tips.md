@@ -31,6 +31,11 @@ Having a secure backup can help you regain access to your wallet if your device 
 Before interacting with a decentralized application, review the token permissions it requests.
 
 Remove unnecessary approvals when they are no longer needed and only interact with applications you trust.
+## Verify Network
+
+Before sending assets or interacting with a decentralized application, make sure your wallet is connected to the correct network.
+
+Checking the network before confirming a transaction can help prevent mistakes and unnecessary losses.
 
 ## Keep Software Updated
 
