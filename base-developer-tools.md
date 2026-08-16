@@ -40,6 +40,11 @@ Keeping documentation up to date allows new contributors to get started more qui
 Developers often use version control systems and collaboration platforms to manage projects efficiently.
 
 These tools help teams track changes, review code, and work together more effectively when building applications on Base.
+## Version Control
+
+Version control helps developers track changes and maintain a clear history of their work.
+
+Using tools such as Git allows teams to collaborate, review changes, and safely manage updates to their projects.
 
 ## Conclusion
 
