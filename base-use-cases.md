@@ -35,6 +35,11 @@ As adoption grows, more organizations may discover practical ways to integrate b
 Base can also be used as a testing ground for new blockchain ideas and experimental applications.
 
 Developers can explore different concepts, test new features, and learn from real-world user interactions as their projects evolve.
+## Onchain Communities
+
+Base can support community-focused applications where users interact, share information, and participate in online communities through blockchain-based tools.
+
+These applications can create new ways for people to connect and participate in decentralized ecosystems.
 
 ## Conclusion
 
