@@ -26,6 +26,11 @@ These activities help users better understand the ecosystem, even though they do
 Users should be careful with websites or messages claiming to offer an official Base airdrop.
 
 Always verify information through official sources and never share private keys or recovery phrases to claim a reward.
+## No Guaranteed Rewards
+
+There is no guarantee that using Base or participating in its ecosystem will result in an airdrop.
+
+Users should focus on learning about the network and using applications responsibly rather than participating only because of potential rewards.
 
 ## Important Note
 
