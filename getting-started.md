@@ -34,6 +34,11 @@ Starting with a few trusted projects and learning step by step can help users be
 Learning blockchain is an ongoing process.
 
 By exploring new applications, reading documentation, and practicing regularly, users can gradually become more confident when using the Base ecosystem.
+## Start Small
+
+New users should begin with simple activities and learn how transactions work before using more advanced applications.
+
+Starting with small amounts can help users gain experience while reducing the risk of costly mistakes.
 
 ## Conclusion
 
