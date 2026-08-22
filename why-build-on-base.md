@@ -39,3 +39,8 @@ Base offers an attractive environment for developers looking to create modern bl
 Base supports a flexible development environment where teams can build different types of decentralized applications.
 
 This flexibility allows developers to experiment, improve their projects, and adapt to the changing needs of the blockchain ecosystem.
+## Ethereum Ecosystem
+
+Base is connected to the broader Ethereum ecosystem, allowing developers to work with familiar standards and tools.
+
+This connection can make it easier for Ethereum developers to explore Base and build applications for a wider user base.
