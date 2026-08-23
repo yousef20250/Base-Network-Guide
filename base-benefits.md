@@ -41,6 +41,11 @@ A reliable infrastructure helps developers create better user experiences and gi
 Base is designed to work with Ethereum-compatible tools and applications.
 
 This compatibility makes it easier for developers familiar with Ethereum to build and deploy applications on Base.
+## Accessibility
+
+Base aims to make blockchain applications easier to access for a wider range of users.
+
+Lower transaction costs and compatibility with Ethereum tools can help reduce some of the barriers that beginners may face when exploring decentralized applications.
 
 ## Developer-Friendly Environment
 
