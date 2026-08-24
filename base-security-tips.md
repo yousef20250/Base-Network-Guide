@@ -36,6 +36,11 @@ Remove unnecessary approvals when they are no longer needed and only interact wi
 Before sending assets or interacting with a decentralized application, make sure your wallet is connected to the correct network.
 
 Checking the network before confirming a transaction can help prevent mistakes and unnecessary losses.
+## Avoid Public Wi-Fi
+
+Avoid making important wallet transactions while connected to unknown or unsecured public Wi-Fi networks.
+
+When possible, use a trusted internet connection and keep your device protected with updated security software.
 
 ## Keep Software Updated
 
