@@ -45,6 +45,11 @@ These tools help teams track changes, review code, and work together more effect
 Version control helps developers track changes and maintain a clear history of their work.
 
 Using tools such as Git allows teams to collaborate, review changes, and safely manage updates to their projects.
+## Testing and Debugging
+
+Testing and debugging are important parts of blockchain development.
+
+Developers should test their applications carefully and identify potential issues before releasing them to users. This can help improve reliability and reduce unexpected problems.
 
 ## Conclusion
 
