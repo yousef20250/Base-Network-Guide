@@ -31,6 +31,11 @@ Always verify information through official sources and never share private keys 
 There is no guarantee that using Base or participating in its ecosystem will result in an airdrop.
 
 Users should focus on learning about the network and using applications responsibly rather than participating only because of potential rewards.
+## Research Before Participating
+
+Before using any new Base application, users should research the project, understand its purpose, and check whether the information comes from reliable sources.
+
+Learning about a project first is more important than chasing potential rewards.
 
 ## Important Note
 
