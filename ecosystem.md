@@ -45,7 +45,7 @@ Open collaboration encourages developers and community members to share ideas, i
 
 Working together helps strengthen the Base ecosystem and promotes continuous innovation.
 
-## Concl## Developer Community
+## Developer Community
 
 Developers play an important role in the growth of the Base ecosystem.
 
@@ -53,3 +53,8 @@ By creating applications, sharing knowledge, and contributing to open-source pro
 usion
 
 Base is becoming an important Layer 2 network with a diverse ecosystem that includes DeFi, NFTs, social applications, and gaming projects.
+## Network Activity
+
+The activity of users and developers is an important part of a blockchain ecosystem.
+
+More applications, transactions, and community participation can contribute to a more active and useful Base ecosystem over time.
