@@ -39,6 +39,11 @@ By exploring new applications, reading documentation, and practicing regularly, 
 New users should begin with simple activities and learn how transactions work before using more advanced applications.
 
 Starting with small amounts can help users gain experience while reducing the risk of costly mistakes.
+## Understand Gas Fees
+
+Transactions on Base require gas fees to be processed.
+
+Before confirming a transaction, check the estimated fee and make sure your wallet has enough ETH to cover the transaction cost.
 
 ## Conclusion
 
