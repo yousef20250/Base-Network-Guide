@@ -40,6 +40,11 @@ Developers can explore different concepts, test new features, and learn from rea
 Base can support community-focused applications where users interact, share information, and participate in online communities through blockchain-based tools.
 
 These applications can create new ways for people to connect and participate in decentralized ecosystems.
+## Digital Identity
+
+Blockchain technology can be used to create and manage digital identity systems.
+
+Base may support applications that allow users to interact with identity-related services while keeping more control over their digital information.
 
 ## Conclusion
 
