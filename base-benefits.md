@@ -46,6 +46,11 @@ This compatibility makes it easier for developers familiar with Ethereum to buil
 Base aims to make blockchain applications easier to access for a wider range of users.
 
 Lower transaction costs and compatibility with Ethereum tools can help reduce some of the barriers that beginners may face when exploring decentralized applications.
+## Efficient Transactions
+
+Base is designed to process transactions efficiently while keeping costs relatively low.
+
+This can make everyday blockchain interactions more practical for users and applications.
 
 ## Developer-Friendly Environment
 
