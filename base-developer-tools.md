@@ -54,3 +54,8 @@ Developers should test their applications carefully and identify potential issue
 ## Conclusion
 
 Using the right tools and following good development practices can help create secure and reliable applications on the Base network.
+## Local Development
+
+Developers can build and experiment with Base applications in a local development environment before deploying them to a live network.
+
+Working locally makes it easier to develop applications, make changes, and experiment with different ideas.
