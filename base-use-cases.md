@@ -45,6 +45,11 @@ These applications can create new ways for people to connect and participate in 
 Blockchain technology can be used to create and manage digital identity systems.
 
 Base may support applications that allow users to interact with identity-related services while keeping more control over their digital information.
+## Creator Economy
+
+Creators can use blockchain applications to publish digital work, connect with communities, and explore new ways to support their projects.
+
+Base can provide infrastructure for applications that connect creators and users through digital assets and decentralized services.
 
 ## Conclusion
 
