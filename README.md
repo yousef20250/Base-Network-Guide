@@ -73,3 +73,10 @@ It provides easy-to-read information about the ecosystem, common use cases, secu
 Whether you are new to blockchain or exploring Layer 2 networks, this repository can help you understand the basics of Base.
 
 This repository is for educational purposes only.
+## How to Use This Repository
+
+This repository is organized into simple sections about Base Network.
+
+Beginners can start with the basic concepts and then explore the ecosystem, use cases, developer topics, and airdrop speculation.
+
+The goal is to make learning about Base simple and easy to follow.
