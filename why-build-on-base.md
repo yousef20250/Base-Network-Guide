@@ -25,6 +25,12 @@ An open ecosystem gives teams the flexibility to create solutions that can reach
 ## Strong Foundation
 
 Base is designed to help developers build scalable applications while benefiting from Ethereum's security.
+## Global Reach
+
+Base applications can be accessed by users from different parts of the world.
+
+This gives developers an opportunity to create blockchain applications for a broad and diverse user community.
+
 ## Building for the Future
 
 Developers often look for platforms that can support long-term growth.
