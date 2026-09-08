@@ -59,3 +59,8 @@ Using the right tools and following good development practices can help create s
 Developers can build and experiment with Base applications in a local development environment before deploying them to a live network.
 
 Working locally makes it easier to develop applications, make changes, and experiment with different ideas.
+## Deployment
+
+After developing a Base application, developers can deploy it to the Base network.
+
+Deployment makes the application available on the blockchain so users can interact with it and use its features.
