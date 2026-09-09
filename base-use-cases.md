@@ -50,6 +50,11 @@ Base may support applications that allow users to interact with identity-related
 Creators can use blockchain applications to publish digital work, connect with communities, and explore new ways to support their projects.
 
 Base can provide infrastructure for applications that connect creators and users through digital assets and decentralized services.
+## Charitable Giving
+
+Blockchain applications can support charitable projects by making digital transfers easier to track.
+
+Base can be used by applications that connect donors with organizations and communities through onchain transactions.
 
 ## Conclusion
 
