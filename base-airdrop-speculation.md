@@ -36,6 +36,11 @@ Users should focus on learning about the network and using applications responsi
 Before using any new Base application, users should research the project, understand its purpose, and check whether the information comes from reliable sources.
 
 Learning about a project first is more important than chasing potential rewards.
+## Evaluating Airdrop Claims
+
+Airdrop claims should be checked carefully before taking action.
+
+Look for clear information from reliable sources and avoid trusting screenshots, rumors, or posts that cannot be verified.
 
 ## Important Note
 
