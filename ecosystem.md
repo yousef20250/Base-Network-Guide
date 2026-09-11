@@ -58,3 +58,8 @@ Base is becoming an important Layer 2 network with a diverse ecosystem that incl
 The activity of users and developers is an important part of a blockchain ecosystem.
 
 More applications, transactions, and community participation can contribute to a more active and useful Base ecosystem over time.
+## Ecosystem Connections
+
+Projects on Base can interact with different parts of the blockchain ecosystem.
+
+These connections allow applications, developers, and users to work together and create new experiences across different services.
