@@ -51,6 +51,11 @@ Lower transaction costs and compatibility with Ethereum tools can help reduce so
 Base is designed to process transactions efficiently while keeping costs relatively low.
 
 This can make everyday blockchain interactions more practical for users and applications.
+## Interoperability
+
+Base applications can interact with other tools and services in the wider Ethereum ecosystem.
+
+This can help developers connect different components and create applications with broader functionality.
 
 ## Developer-Friendly Environment
 
