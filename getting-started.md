@@ -44,6 +44,11 @@ Starting with small amounts can help users gain experience while reducing the ri
 Transactions on Base require gas fees to be processed.
 
 Before confirming a transaction, check the estimated fee and make sure your wallet has enough ETH to cover the transaction cost.
+## Track Your Activity
+
+Keeping track of your activity can help you understand how you use Base.
+
+You can review your transactions and wallet activity to become more familiar with how blockchain applications work.
 
 ## Conclusion
 
