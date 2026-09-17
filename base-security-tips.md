@@ -41,6 +41,11 @@ Checking the network before confirming a transaction can help prevent mistakes a
 Avoid making important wallet transactions while connected to unknown or unsecured public Wi-Fi networks.
 
 When possible, use a trusted internet connection and keep your device protected with updated security software.
+## Check Wallet Activity
+
+Regularly reviewing your wallet activity can help you notice transactions that you do not recognize.
+
+If something looks unfamiliar, investigate it before making further transactions.
 
 ## Keep Software Updated
 
