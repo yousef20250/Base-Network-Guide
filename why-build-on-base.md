@@ -60,3 +60,8 @@ Its Ethereum compatibility allows developers to use familiar concepts and tools 
 Base provides opportunities for developers to create different types of blockchain applications.
 
 Developers can explore new ideas, build useful products, and contribute to the growth of the Base ecosystem.
+## Open Source Development
+
+Open-source development allows developers to share code, review contributions, and learn from existing projects.
+
+This approach can help developers gain practical experience while contributing to the wider blockchain community.
