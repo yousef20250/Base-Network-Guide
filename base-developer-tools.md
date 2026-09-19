@@ -64,3 +64,8 @@ Working locally makes it easier to develop applications, make changes, and exper
 After developing a Base application, developers can deploy it to the Base network.
 
 Deployment makes the application available on the blockchain so users can interact with it and use its features.
+## Monitoring
+
+After deployment, developers can monitor their applications to understand how they perform and identify potential issues.
+
+Regular monitoring can help teams respond to problems and improve applications over time.
