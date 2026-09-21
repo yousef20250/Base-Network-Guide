@@ -41,6 +41,11 @@ Learning about a project first is more important than chasing potential rewards.
 Airdrop claims should be checked carefully before taking action.
 
 Look for clear information from reliable sources and avoid trusting screenshots, rumors, or posts that cannot be verified.
+## Official Sources
+
+When researching potential Base rewards, use official Base channels and project documentation as the primary sources of information.
+
+Third-party posts can be useful for discussion, but important claims should be verified before taking action.
 
 ## Important Note
 
