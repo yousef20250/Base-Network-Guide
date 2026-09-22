@@ -63,3 +63,8 @@ More applications, transactions, and community participation can contribute to a
 Projects on Base can interact with different parts of the blockchain ecosystem.
 
 These connections allow applications, developers, and users to work together and create new experiences across different services.
+## Developer Activity
+
+Developer activity is an important part of a growing blockchain ecosystem.
+
+New applications, code contributions, and technical experiments can introduce new ideas and expand the range of projects available to users.
