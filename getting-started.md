@@ -49,6 +49,11 @@ Before confirming a transaction, check the estimated fee and make sure your wall
 Keeping track of your activity can help you understand how you use Base.
 
 You can review your transactions and wallet activity to become more familiar with how blockchain applications work.
+## Verify Transactions
+
+After completing a transaction, check your wallet activity to confirm that it was processed as expected.
+
+Reviewing the transaction details can help beginners understand confirmations, fees, and onchain activity.
 
 ## Conclusion
 
