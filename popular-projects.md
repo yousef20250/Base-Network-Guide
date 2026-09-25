@@ -63,6 +63,11 @@ As more people explore Base, projects that provide practical solutions and a goo
 Projects in the Base ecosystem can evolve as they gain more users, contributors, and community feedback.
 
 Continuous development can help projects improve their features, fix issues, and provide better experiences for their users.
+## Project Evaluation
+
+When exploring a project on Base, users can look at its documentation, development activity, community, and available features.
+
+Understanding these factors can help users learn more about a project before deciding whether to interact with it.
 
 ## Conclusion
 
