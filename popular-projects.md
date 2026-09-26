@@ -68,6 +68,11 @@ Continuous development can help projects improve their features, fix issues, and
 When exploring a project on Base, users can look at its documentation, development activity, community, and available features.
 
 Understanding these factors can help users learn more about a project before deciding whether to interact with it.
+## Project Documentation
+
+Good documentation helps users understand how a project works and how its features can be used.
+
+Clear documentation can also make it easier for developers and community members to learn about a project and contribute to its development.
 
 ## Conclusion
 
