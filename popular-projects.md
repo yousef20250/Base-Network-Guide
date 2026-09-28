@@ -78,6 +78,11 @@ Clear documentation can also make it easier for developers and community members
 Projects can change over time as developers release new features, fix issues, and improve their products.
 
 Checking recent project updates can help users understand how actively a project is being developed.
+## Project Transparency
+
+Transparent projects can make it easier for users to understand how they operate.
+
+Public documentation, clear project information, and visible development activity can help users research projects before interacting with them.
 
 ## Conclusion
 
