@@ -83,6 +83,11 @@ Checking recent project updates can help users understand how actively a project
 Transparent projects can make it easier for users to understand how they operate.
 
 Public documentation, clear project information, and visible development activity can help users research projects before interacting with them.
+## Community Activity
+
+Active communities can help projects receive feedback, share information, and discover potential issues.
+
+Community activity can also give users more opportunities to learn about how a project develops over time.
 
 ## Conclusion
 
