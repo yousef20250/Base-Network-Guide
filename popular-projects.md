@@ -88,6 +88,11 @@ Public documentation, clear project information, and visible development activit
 Active communities can help projects receive feedback, share information, and discover potential issues.
 
 Community activity can also give users more opportunities to learn about how a project develops over time.
+## Project Accessibility
+
+Projects can become easier to use when they provide clear interfaces, simple onboarding, and helpful resources.
+
+Improving accessibility can help more users understand and interact with applications across the Base ecosystem.
 
 ## Conclusion
 
