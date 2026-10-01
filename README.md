@@ -80,3 +80,8 @@ This repository is organized into simple sections about Base Network.
 Beginners can start with the basic concepts and then explore the ecosystem, use cases, developer topics, and airdrop speculation.
 
 The goal is to make learning about Base simple and easy to follow.
+## Repository Structure
+
+The repository is divided into separate files, with each file covering a specific topic about Base.
+
+This structure makes it easier to find information and learn about different parts of the Base ecosystem step by step.
