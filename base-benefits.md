@@ -56,6 +56,11 @@ This can make everyday blockchain interactions more practical for users and appl
 Base applications can interact with other tools and services in the wider Ethereum ecosystem.
 
 This can help developers connect different components and create applications with broader functionality.
+## Developer Ecosystem
+
+Base provides an environment where developers can build applications using tools and resources from the wider blockchain ecosystem.
+
+Access to familiar development resources can make it easier for developers to create and maintain different types of applications.
 
 ## Developer-Friendly Environment
 
