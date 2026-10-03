@@ -64,3 +64,8 @@ Disconnect your wallet from services you no longer use to reduce unnecessary exp
 ## Conclusion
 
 Good security practices help users safely explore the Base ecosystem and reduce potential risks.
+## Hardware Wallets
+
+Hardware wallets keep private keys stored on a dedicated physical device instead of directly on a computer or phone.
+
+For users holding significant digital assets, a hardware wallet can provide an additional layer of protection when used correctly.
