@@ -55,6 +55,12 @@ Base can provide infrastructure for applications that connect creators and users
 Blockchain applications can support charitable projects by making digital transfers easier to track.
 
 Base can be used by applications that connect donors with organizations and communities through onchain transactions.
+## Ticketing
+
+Blockchain applications can be used to create and manage digital tickets for events.
+
+Onchain ticketing can provide a transparent record of ticket ownership and transfers.
+
 ## Gaming
 
 Blockchain technology can support games with digital assets, ownership features, and onchain interactions.
