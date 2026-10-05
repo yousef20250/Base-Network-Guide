@@ -69,3 +69,8 @@ Deployment makes the application available on the blockchain so users can intera
 After deployment, developers can monitor their applications to understand how they perform and identify potential issues.
 
 Regular monitoring can help teams respond to problems and improve applications over time.
+## Environment Configuration
+
+Developers can use environment configuration to manage settings for different stages of an application.
+
+Keeping configuration separate from application code can make development and deployment easier to manage.
