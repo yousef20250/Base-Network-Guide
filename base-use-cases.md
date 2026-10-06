@@ -60,6 +60,11 @@ Base can be used by applications that connect donors with organizations and comm
 Blockchain applications can be used to create and manage digital tickets for events.
 
 Onchain ticketing can provide a transparent record of ticket ownership and transfers.
+## Supply Chain
+
+Blockchain applications can help businesses record and track information related to products as they move through a supply chain.
+
+Onchain records can provide a shared history of important events and make information easier to verify.
 
 ## Gaming
 
