@@ -74,3 +74,8 @@ Regular monitoring can help teams respond to problems and improve applications o
 Developers can use environment configuration to manage settings for different stages of an application.
 
 Keeping configuration separate from application code can make development and deployment easier to manage.
+## API Integration
+
+Developers can connect blockchain applications with external services through APIs.
+
+API integrations can help applications exchange information with other software and provide additional functionality to users.
