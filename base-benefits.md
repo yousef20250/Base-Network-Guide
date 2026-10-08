@@ -61,6 +61,11 @@ This can help developers connect different components and create applications wi
 Base provides an environment where developers can build applications using tools and resources from the wider blockchain ecosystem.
 
 Access to familiar development resources can make it easier for developers to create and maintain different types of applications.
+## Composability
+
+Base applications can build on existing blockchain components and services.
+
+This allows developers to combine different tools and create applications with features from multiple parts of the ecosystem.
 
 ## Developer-Friendly Environment
 
