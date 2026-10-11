@@ -8,6 +8,21 @@ Developers can use a variety of tools to build applications on the Base network.
 
 Developers can write and deploy smart contracts using Solidity and other Ethereum-compatible development tools.
 
+## Network Details
+
+These are the basic settings needed to connect a wallet or a development tool to Base:
+
+| Setting | Base Mainnet | Base Sepolia (testnet) |
+| --- | --- | --- |
+| Chain ID | 8453 | 84532 |
+| Public RPC URL | https://mainnet.base.org | https://sepolia.base.org |
+| Block Explorer | https://basescan.org | https://sepolia.basescan.org |
+| Currency Symbol | ETH | ETH |
+
+The public RPC endpoints are rate-limited, so they are best suited for testing and learning. For production applications, consider using a dedicated RPC provider.
+
+Use Base Sepolia for testing so that you do not spend real funds while experimenting.
+
 ## Wallet Integration
 
 Applications on Base can connect with popular crypto wallets, making it easier for users to interact with decentralized services.
