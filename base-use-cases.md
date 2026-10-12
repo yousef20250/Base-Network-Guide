@@ -66,17 +66,11 @@ Blockchain applications can help businesses record and track information related
 
 Onchain records can provide a shared history of important events and make information easier to verify.
 
-## Ga## Loyalty Programs
+## Loyalty Programs
 
 Blockchain applications can support loyalty programs by giving users digital rewards for purchases or participation.
 
 Onchain rewards can provide users with a transparent record of their digital benefits.
-ming
-
-Blockchain technology can support games with digital assets, ownership features, and onchain interactions.
-
-Base can provide infrastructure for developers experimenting with blockchain-based gaming experiences.
-
 ## Conclusion
 
 Base supports a wide range of blockchain applications and continues to grow as more developers build on the network.
