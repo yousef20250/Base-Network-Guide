@@ -61,9 +61,6 @@ Review the permissions requested by decentralized applications before approving 
 
 Disconnect your wallet from services you no longer use to reduce unnecessary exposure.
 
-## Conclusion
-
-Good security practices help users safely explore the Base ecosystem and reduce potential risks.
 ## Hardware Wallets
 
 Hardware wallets keep private keys stored on a dedicated physical device instead of directly on a computer or phone.
@@ -74,3 +71,7 @@ For users holding significant digital assets, a hardware wallet can provide an a
 Some wallet tools can simulate a transaction before it is submitted to the network.
 
 Reviewing the expected result can help users identify unexpected actions before approving a transaction.
+
+## Conclusion
+
+Good security practices help users safely explore the Base ecosystem and reduce potential risks.
