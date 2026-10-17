@@ -66,9 +66,6 @@ Testing and debugging are important parts of blockchain development.
 
 Developers should test their applications carefully and identify potential issues before releasing them to users. This can help improve reliability and reduce unexpected problems.
 
-## Conclusion
-
-Using the right tools and following good development practices can help create secure and reliable applications on the Base network.
 ## Local Development
 
 Developers can build and experiment with Base applications in a local development environment before deploying them to a live network.
@@ -94,3 +91,7 @@ Keeping configuration separate from application code can make development and de
 Developers can connect blockchain applications with external services through APIs.
 
 API integrations can help applications exchange information with other software and provide additional functionality to users.
+
+## Conclusion
+
+Using the right tools and following good development practices can help create secure and reliable applications on the Base network.
