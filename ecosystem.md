@@ -42,18 +42,14 @@ Open collaboration also encourages community members to share ideas, improve exi
 The Base ecosystem continues to evolve as new ideas, tools, and applications are introduced.
 
 Regular improvements and community contributions help keep the ecosystem active and encourage long-term development.
+
 ## Developer Community
 
 Developers play an important role in the growth of the Base ecosystem.
 
 By creating applications, sharing knowledge, and contributing to open-source projects, developers can help introduce new ideas and improve the overall ecosystem.
 
-
-## Ecosystem Connections
-
-Projects on Base can interact with different parts of the blockchain ecosystem.
-
-These connections allow applications, developers, and users to work together and create new experiences across different services.
+Code contributions and technical experiments can also expand the range of projects available to users.
 
 ## Network Activity
 
@@ -66,12 +62,6 @@ More applications, transactions, and community participation can contribute to a
 Projects on Base can interact with different parts of the blockchain ecosystem.
 
 These connections allow applications, developers, and users to work together and create new experiences across different services.
-
-## Developer Activity
-
-Developer activity is an important part of a growing blockchain ecosystem.
-
-New applications, code contributions, and technical experiments can introduce new ideas and expand the range of projects available to users.
 
 ## Conclusion
 
