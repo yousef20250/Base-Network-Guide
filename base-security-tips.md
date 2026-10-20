@@ -53,11 +53,7 @@ Update your wallet and device software regularly to benefit from the latest secu
 
 ## Safe Wallet Connections
 
-Before connecting your wallet to any application, make sure the website is legitimate.
-
 Avoid clicking unknown links shared through messages or social media.
-
-Review the permissions requested by decentralized applications before approving any transaction.
 
 Disconnect your wallet from services you no longer use to reduce unnecessary exposure.
 
