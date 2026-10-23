@@ -42,19 +42,13 @@ Base provides an environment where applications can continue to improve as the e
 
 Base supports a flexible development environment where teams can build different types of decentralized applications.
 
-This flexibility allows developers to experiment, improve their projects, and adapt to the changing needs of the blockchain ecosystem.
+This flexibility allows developers to experiment, improve their projects, and adapt to the changing needs of the blockchain ecosystem. Along the way, they can build useful products and contribute to the growth of the Base ecosystem.
 
 ## Ethereum Compatibility
 
 Base is connected to the broader Ethereum ecosystem, allowing developers to work with familiar standards and tools.
 
 This makes it easier for Ethereum developers to build applications for a wider user base, and for new developers to explore Layer 2 development without needing to build an entirely new technical stack.
-
-## Developer Opportunities
-
-Base provides opportunities for developers to create different types of blockchain applications.
-
-Developers can explore new ideas, build useful products, and contribute to the growth of the Base ecosystem.
 
 ## Open Source Development
 
