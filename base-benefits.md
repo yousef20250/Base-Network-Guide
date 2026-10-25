@@ -14,8 +14,7 @@ This can make everyday blockchain interactions more practical for users and appl
 
 Base is designed to make blockchain technology more accessible for both new and experienced users.
 
-Its compatibility with Ethereum tools allows users to explore decentralized applications without learning an entirely new ecosystem.
-
+Its compatibility with Ethereum tools allows users to explore decentralized applications without learning an entirely new ecosystem. Lower transaction costs can also help reduce some of the barriers that beginners may face.
 ## Ethereum Security
 
 Base is built on Ethereum and benefits from its strong security and infrastructure.
@@ -43,11 +42,7 @@ A reliable infrastructure helps developers create better user experiences and gi
 Base is designed to work with Ethereum-compatible tools and applications.
 
 This compatibility makes it easier for developers familiar with Ethereum to build and deploy applications on Base.
-## Accessibility
 
-Base aims to make blockchain applications easier to access for a wider range of users.
-
-Lower transaction costs and compatibility with Ethereum tools can help reduce some of the barriers that beginners may face when exploring decentralized applications.
 
 ## Interoperability
 
