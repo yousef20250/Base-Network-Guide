@@ -60,10 +60,6 @@ Base applications can build on existing blockchain components and services.
 
 This allows developers to combine different tools and create applications with features from multiple parts of the ecosystem.
 
-## Developer-Friendly Environment
-
-Base provides tools and resources that make it easier for developers to build decentralized applications.
-
 ## Conclusion
 
 Base aims to make blockchain technology more accessible through speed, low fees, and a growing ecosystem.
