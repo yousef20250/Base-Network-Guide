@@ -4,6 +4,7 @@
 
 More developers and users are joining the Base ecosystem every year.
 
+As more developers explore Base, they can bring different ideas, skills, and applications, which contributes to a wider variety of tools and services for users over time.
 ## New Applications
 
 The network continues to attract projects in decentralized finance, gaming, social media, and digital collectibles.
@@ -38,9 +39,8 @@ Continued innovation from developers and the wider community can help the ecosys
 As the Base ecosystem develops, more applications can focus on practical problems and everyday needs.
 
 Useful applications can help blockchain technology become easier to understand and more valuable for different types of users.
-## Developer Adoption
 
-As more developers explore Base, they can bring different ideas, skills, and applications to the ecosystem.
+## Looking Ahead
 
 The long-term success of Base will depend on adoption, innovation, and the continued growth of its community.
 
